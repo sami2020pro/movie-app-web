@@ -14,3 +14,9 @@ style="margin-right: 10px;"
 `cd movie-app`
 
 `npm install server --save`
+
+# run application
+<strong>Please Following Commands</strong>
+`node app.js`
+
+# descriptions
