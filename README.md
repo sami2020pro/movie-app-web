@@ -21,3 +21,4 @@ style="margin-right: 10px;"
 `node app.js`
 
 # descriptions
+<p>we use a simple api | javascript and html and css used<p>
