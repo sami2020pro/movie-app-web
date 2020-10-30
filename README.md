@@ -7,3 +7,10 @@ raw=true
 alt="suftime | Simple Clock | GNU/Linux Distros"
 style="margin-right: 10px;"
 />
+
+# install
+<strong>Please Following Commands</strong>
+
+`cd movie-app`
+
+`npm install server --save`
