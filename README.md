@@ -11,14 +11,18 @@ style="margin-right: 10px;"
 # install
 <strong>Please Following Commands</strong>
 
-`cd movie-app`
+```html
+cd movie-app
 
-`npm install server --save`
+npm install server --save
+```
 
 # run application
 <strong>Please Following Commands</strong>
 
-`node app.js`
+```html
+node app.js
+```
 
 # descriptions
 <p>we use a simple api | javascript and html and css used<p>
